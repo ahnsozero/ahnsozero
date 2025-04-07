@@ -39,3 +39,7 @@
    <a href="https://github.com/ahnsozero/github-readme-stats"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnsozero&layout=compact"/></a>
 </p> 
+
+<p align='center'>
+  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fahnsozero&label=visits&icon=check-square-fill&color=%230d6efd">
+</p> 
